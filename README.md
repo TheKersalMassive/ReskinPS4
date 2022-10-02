@@ -81,6 +81,9 @@ You have two options:
 ## How do I get the launcher below the game title when a game is selected?
 This is based on the **'Source'** field, if you want to show 'Steam', 'Ubisoft' or 'Yuzu' as in the above screenshot, you will need to set these sources in the source field of your game(s).
 
+## I can't adjust the space between the game covers on the Layout > Item Spacing menu?
+This is intentional and the spacing is fixed as per the PS4's UI.
+
 ## Can you add support for any extensions or add-ons?
 No as I don't use any extensions (apart from Extra Metadata Loader), plugins or add-ons. However, you can always fork and mod the theme if you prefer.
 
